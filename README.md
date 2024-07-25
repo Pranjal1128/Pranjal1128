@@ -13,9 +13,6 @@
 <a href="https://twitter.com/nam18119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nam18119" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranjal-naman-6b141329a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal-naman-6b141329a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/optislugprank1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="optislugprank1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/smoke11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="smoke11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cypherxyzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cypherxyzz" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/optislugprank11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="optislugprank11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
